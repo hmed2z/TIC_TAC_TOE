@@ -1,0 +1,13 @@
+***TicTacToe By Ahmed/Dalia/Dyhia On RaspberryPi***
+
+- Régler les mêmes ports et adresses IP sur les fichiers Client.py et Server.py
+
+- Lancer Server.py sur le terminal à l'aide de la commande : python3 Server.py
+
+- Sur une autre machine ou autre terminal, lancer Client.py : python3 Client.py
+
+- Lancer un deuxième Client
+
+- Pour jouer, il faut entre le numéro de ligne pui numéro de colonne avec un espace entre les deux
+
+ENJOY !
